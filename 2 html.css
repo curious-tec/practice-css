@@ -1,0 +1,15 @@
+.container {
+    color:red;
+    background-color: rgb(203, 224, 224);
+    height: 500px;
+    width: 2000px;
+    background:url(https://media.istockphoto.com/id/1471378406/photo/the-scene-of-the-wellington-point-recreation-reserve-in-the-sunset-in-brisbane.jpg?s=2048x2048&w=is&k=20&c=BAr_FHzwa_AWpXXIaRukQgYZhVeGG0TrhVaolsiM7qk=);
+    background-position: left;
+    background-size: 10%;
+    background-attachment: local;
+    background-repeat: space;
+}
+body{
+    background-color: chartreuse;
+    background-image: url(https://img.freepik.com/free-photo/red-white-cat-i-white-studio_155003-13189.jpg?w=360&t=st=1696239250~exp=1696239850~hmac=dbddd5ed83a9b15a7bae71674a177f60f58788933ef41e6fe09b4ef796aa1450); 
+}
