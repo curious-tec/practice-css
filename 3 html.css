@@ -1,0 +1,24 @@
+.box1{
+    color: red;
+width: auto;
+    border:4px solid black;
+    margin: 7px 2px 7px 2px;
+    padding: 0;
+    background-color: aqua;
+    border-radius: 7px;
+  
+
+
+}
+.box2{
+    color: orange;
+   
+   height: auto;
+    border-color: lawngreen;
+    margin: 3px top;
+    padding: 0;
+    background-color: blueviolet;
+  border-radius: 30px;
+
+
+}
