@@ -1,0 +1,16 @@
+.box1{
+    color: blueviolet;
+    background-color: aquamarine;
+    height: 0.5rem;
+}
+.box2{
+    color: black;
+    background-color: red;
+    
+}
+li{
+   
+    display: inline;
+    background-color: black;
+    color: red;
+}
