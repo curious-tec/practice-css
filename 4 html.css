@@ -1,0 +1,25 @@
+.box1{
+    color: chartreuse;
+    background-color: aqua;
+    display: block;
+}
+.box2
+{   
+    color: black;
+    background-color: blueviolet;
+    
+   
+
+}
+.box3
+{
+    color:hotpink;
+    background-color: crimson;
+    display: inline-block;
+    height: 35px;
+    width: 250px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 0.7;
+    
+}
