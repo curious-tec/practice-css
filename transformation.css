@@ -1,0 +1,21 @@
+.container{
+    background-color: red;
+    height: 455px;
+}
+.box{
+    border:2px  solid black;
+    transform: translate(134px ,56px) rotate(45deg);
+}
+
+.boss:hover{
+    background-color: chartreuse;
+    border:2px solid red;
+    display: inline-block;
+    transition: 2s;
+
+}
+.boss{
+    background-color: red;
+    display:inline-block;
+   
+}
