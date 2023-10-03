@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    justify-content: end;
+    background-color: aquamarine;
+    height: 50vh;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.a{
+    height: 234px;
+    width: 345px;
+    background-color:blue;
+    border: 2px solid black;
+    order: 3;
+    align-self: flex-end;
+    
+}
+.b{
+    height: 234px;
+    width: 345px;
+    background-color: red;
+    border: 2px solid black;
+}
+.c{
+    height: 234px;
+    width: 345px;
+    background-color: red;
+    border: 2px solid black;
+}
+.d{
+    height: 234px;
+    width: 345px;
+    background-color: red;
+    border: 2px solid black;
+}
