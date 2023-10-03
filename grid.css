@@ -1,0 +1,30 @@
+.container{
+    display: grid;
+    background-color: yellow;
+    grid-gap: 9px;
+    grid-template-columns:auto auto auto auto ;
+    height: 20vh;
+    align-content: space-between;
+   
+    
+   
+}
+.item{
+    background-color: aquamarine;
+    border: 2px solid red;
+    height: 34px;
+
+}
+.sun{
+    background-color: aquamarine;
+    border: 2px solid red;
+    grid-column: 1/3;
+    height: 44px;
+
+}
+
+
+
+
+
+
