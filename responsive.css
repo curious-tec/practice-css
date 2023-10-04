@@ -1,0 +1,38 @@
+.container{
+    background-color: red;
+    height:34vh;
+    
+}
+@media screen and (max-width:800px) {
+    body{
+        background-color: brown;
+    }
+    .container{
+        background-color: yellow;
+    }
+    
+}
+.nav{
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+    overflow:auto;
+    
+}
+li{
+    
+    display: inline-block;
+   
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+li:hover{
+    background-color:wheat;
+}
+@media screen and (max-width: 500px) {
+    .nav li {
+      float: none;
+      display: grid;
+
+    }}
